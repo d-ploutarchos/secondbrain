@@ -1,0 +1,27 @@
+# Tools to Try
+
+Software, techniques, and practical tools to explore.
+
+- [[AI Agents & Dev Tools/2026-10-10 insomnia keeps agents running with lid closed]]
+- [[AI Agents & Dev Tools/2026-08-27 Merging pstack and Firstmate into one runtime]]
+- [[AI Agents & Dev Tools/2026-10-05 pstack adds poteto-help skill]]
+- [[AI Agents & Dev Tools/2026-10-05 pi-durable inside a Durable Object]]
+- [[AI Agents & Dev Tools/2026-10-04 macOS flag for Computer Use targets]]
+- [[AI Agents & Dev Tools/2026-10-04 Matt Pocock skills v1.3 update prompt]]
+- [[AI Agents & Dev Tools/2026-10-02 Cloudflare Clef beats Jev]]
+- [[AI Agents & Dev Tools/2026-09-17 Jev for instant context compaction]]
+- [[AI Agents & Dev Tools/2026-09-08 Herdr 0.9 machines across computers]]
+- [[AI Agents & Dev Tools/2026-09-09 Herdr and Firstmate workflow]]
+- [[AI Agents & Dev Tools/2026-09-08 High-agency question prompt]]
+- [[AI Agents & Dev Tools/2026-09-07 Herdr hands off between Claude and Codex]]
+- [[AI Agents & Dev Tools/2026-09-07 Herdr 0.9.0 release]]
+- [[AI Agents & Dev Tools/2026-09-07 Headroom compresses tokens before the LLM]]
+- [[AI Agents & Dev Tools/2026-09-04 Have Astra and Fable critique your codebase]]
+- [[AI Agents & Dev Tools/2026-09-02 Prompt-audit your skills for Fable 5.1]]
+- [[AI Agents & Dev Tools/2026-08-14 Isometric system map prompt]]
+- [[AI Agents & Dev Tools/2026-08-13 Claude Code tunes Ubiquiti WiFi]]
+- [[AI Agents & Dev Tools/2026-08-03 Eve marketing-team template]]
+- [[AI Agents & Dev Tools/2026-08-03 Vercel's V agent built on Eve]]
+- [[Crypto & Tokenization/2026-08-13 Chainlink site for AI agents]]
+- [[Other/2026-09-21 VAULT gridfinity storage system]]
+- [[Other/2026-08-05 Disable macOS Spaces animation]]
