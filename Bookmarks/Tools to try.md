@@ -2,6 +2,7 @@
 
 Software, techniques, and practical tools to explore.
 
+- [[AI Agents & Dev Tools/2026-10-15 Ambition prompt from Anthropic eng lead]]
 - [[AI Agents & Dev Tools/2026-10-10 insomnia keeps agents running with lid closed]]
 - [[AI Agents & Dev Tools/2026-08-27 Merging pstack and Firstmate into one runtime]]
 - [[AI Agents & Dev Tools/2026-10-05 pstack adds poteto-help skill]]

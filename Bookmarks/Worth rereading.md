@@ -2,6 +2,8 @@
 
 High-value posts worth revisiting for lasting insights.
 
+- [[AI Agents & Dev Tools/2026-10-15 MajmudarAdam on Cammarata interpretability breakthrough]]
+- [[Health & Mind/2026-10-15 FOMO as fear of what missing out says about us]]
 - [[AI Agents & Dev Tools/2026-10-06 Reworking CI for 4x more agent commits]]
 - [[AI Agents & Dev Tools/2026-08-31 Complete Guide to pstack, part 1]]
 - [[AI Agents & Dev Tools/2026-10-03 Interview with poteto and Matt]]
