@@ -2,6 +2,8 @@
 
 High-value posts worth revisiting for lasting insights.
 
+- [[Health & Mind/2026-10-14 Core Transformation podcast with Tamara Andreas]]
+- [[Health & Mind/2026-02-17 Dan Koe Human 3.0, a map to reach the top 1%]]
 - [[AI Agents & Dev Tools/2026-10-15 MajmudarAdam on Cammarata interpretability breakthrough]]
 - [[Health & Mind/2026-10-15 FOMO as fear of what missing out says about us]]
 - [[AI Agents & Dev Tools/2026-10-06 Reworking CI for 4x more agent commits]]

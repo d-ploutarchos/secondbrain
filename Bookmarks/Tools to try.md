@@ -2,6 +2,8 @@
 
 Software, techniques, and practical tools to explore.
 
+- [[AI Agents & Dev Tools/2026-10-17 Debloat a smart TV with Claude Code over adb]]
+- [[AI Agents & Dev Tools/2026-10-16 Ask the model for a deeper version, not a bigger one]]
 - [[AI Agents & Dev Tools/2026-10-15 Ambition prompt from Anthropic eng lead]]
 - [[AI Agents & Dev Tools/2026-10-10 insomnia keeps agents running with lid closed]]
 - [[AI Agents & Dev Tools/2026-08-27 Merging pstack and Firstmate into one runtime]]
