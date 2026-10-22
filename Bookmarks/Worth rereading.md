@@ -24,6 +24,7 @@ High-value posts worth revisiting for lasting insights.
 - [[Crypto & Tokenization/2026-10-15 Rancune on the coming tokenization trade]]
 - [[Crypto & Tokenization/2026-09-19 Why Chainlink Will Win in 777 Words]]
 - [[Crypto & Tokenization/2026-09-17 goodalexander tokenization and US debt]]
+- [[Crypto & Tokenization/2026-09-10 brezshares Heresy Pearl and the Resurrection of Bitcoin]]
 - [[Crypto & Tokenization/2026-08-23 DEF CON talk hiring Lazarus IT workers]]
 - [[Crypto & Tokenization/2026-08-07 Gripping postmortem talk]]
 - [[Crypto & Tokenization/2026-08-05 Arthur Hayes Situationship]]
