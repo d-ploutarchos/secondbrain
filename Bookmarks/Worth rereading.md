@@ -2,6 +2,7 @@
 
 High-value posts worth revisiting for lasting insights.
 
+- [[AI Agents & Dev Tools/2026-10-24 Transcript poteto (pstack creator) on shipping thousands of PRs a month]]
 - [[Health & Mind/2026-10-14 Core Transformation podcast with Tamara Andreas]]
 - [[Health & Mind/2026-06-26 Kundalinimaxxing Awakening the Delusional Optimist Within]]
 - [[Health & Mind/2026-02-17 Dan Koe Human 3.0, a map to reach the top 1%]]

@@ -2,6 +2,8 @@
 
 Software, techniques, and practical tools to explore.
 
+- [[AI Agents & Dev Tools/2026-10-24 Enable Tailscale Tailnet Lock]]
+- [[AI Agents & Dev Tools/2026-10-24 Setting up poteto's skills across every repo 200+ PRs merged in a week]]
 - [[AI Agents & Dev Tools/2026-10-17 Debloat a smart TV with Claude Code over adb]]
 - [[AI Agents & Dev Tools/2026-10-16 Ask the model for a deeper version, not a bigger one]]
 - [[AI Agents & Dev Tools/2026-10-15 Ambition prompt from Anthropic eng lead]]
