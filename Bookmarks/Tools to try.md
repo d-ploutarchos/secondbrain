@@ -2,6 +2,7 @@
 
 Software, techniques, and practical tools to explore.
 
+- [[AI Agents & Dev Tools/2026-10-27 An AI-native macOS dock with focus modes]]
 - [[AI Agents & Dev Tools/2026-10-24 Survival LLM an offline AI plus emergency library on your own computer]]
 - [[AI Agents & Dev Tools/2026-10-24 Enable Tailscale Tailnet Lock]]
 - [[AI Agents & Dev Tools/2026-10-24 Setting up poteto's skills across every repo 200+ PRs merged in a week]]

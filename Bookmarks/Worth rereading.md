@@ -2,6 +2,7 @@
 
 High-value posts worth revisiting for lasting insights.
 
+- [[Business & Startups/2026-10-29 The Commanding Heights where AI's wealth will actually settle]]
 - [[AI Agents & Dev Tools/2026-10-24 Transcript poteto (pstack creator) on shipping thousands of PRs a month]]
 - [[Health & Mind/2026-10-14 Core Transformation podcast with Tamara Andreas]]
 - [[Health & Mind/2026-06-26 Kundalinimaxxing Awakening the Delusional Optimist Within]]
