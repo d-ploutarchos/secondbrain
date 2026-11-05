@@ -2,6 +2,7 @@
 
 High-value posts worth revisiting for lasting insights.
 
+- [[Health & Mind/2026-11-03 bryan_johnson Three levels of sauna]]
 - [[Crypto & Tokenization/2026-11-02 brezshares Why Pearl will Win]]
 - [[Business & Startups/2026-10-29 The Commanding Heights where AI's wealth will actually settle]]
 - [[AI Agents & Dev Tools/2026-10-24 Transcript poteto (pstack creator) on shipping thousands of PRs a month]]

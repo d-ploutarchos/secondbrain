@@ -2,6 +2,7 @@
 
 Software, techniques, and practical tools to explore.
 
+- [[AI Agents & Dev Tools/2026-11-03 gregisenberg Full agent stack for running a company]]
 - [[AI Agents & Dev Tools/2026-10-27 An AI-native macOS dock with focus modes]]
 - [[AI Agents & Dev Tools/2026-10-24 Survival LLM an offline AI plus emergency library on your own computer]]
 - [[AI Agents & Dev Tools/2026-10-24 Enable Tailscale Tailnet Lock]]
