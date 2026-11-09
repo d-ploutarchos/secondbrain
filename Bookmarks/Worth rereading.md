@@ -2,6 +2,7 @@
 
 High-value posts worth revisiting for lasting insights.
 
+- [[AI Agents & Dev Tools/2026-11-07 brian_armstrong runs one always-on lead agent per focus area]]
 - [[Health & Mind/2026-11-03 bryan_johnson Three levels of sauna]]
 - [[Crypto & Tokenization/2026-11-02 brezshares Why Pearl will Win]]
 - [[Business & Startups/2026-10-29 The Commanding Heights where AI's wealth will actually settle]]
