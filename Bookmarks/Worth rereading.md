@@ -2,6 +2,7 @@
 
 High-value posts worth revisiting for lasting insights.
 
+- [[AI Agents & Dev Tools/2026-10-31 poteto How I create high quality Grok bots and manage my team]]
 - [[AI Agents & Dev Tools/2026-11-07 brian_armstrong runs one always-on lead agent per focus area]]
 - [[Health & Mind/2026-11-03 bryan_johnson Three levels of sauna]]
 - [[Crypto & Tokenization/2026-11-02 brezshares Why Pearl will Win]]

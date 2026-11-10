@@ -2,6 +2,8 @@
 
 Software, techniques, and practical tools to explore.
 
+- [[AI Agents & Dev Tools/2026-11-09 borjafat Fable 5.2 as Head of SEO with a black hole SEO playbook]]
+- [[AI Agents & Dev Tools/2026-11-09 kunchenguid Fable 5.2 prompt to find implicit state machines]]
 - [[AI Agents & Dev Tools/2026-11-08 herdrdev herdr-core lets your main agent orchestrate all other agents]]
 - [[AI Agents & Dev Tools/2026-11-03 gregisenberg Full agent stack for running a company]]
 - [[AI Agents & Dev Tools/2026-10-27 An AI-native macOS dock with focus modes]]
