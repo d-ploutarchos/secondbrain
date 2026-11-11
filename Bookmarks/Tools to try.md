@@ -2,6 +2,9 @@
 
 Software, techniques, and practical tools to explore.
 
+- [[Business & Startups/2026-11-10 acecreamu High-DR profile pages as an SEO trick]]
+- [[AI Agents & Dev Tools/2026-11-10 bebuu_ai Fable 5.2 ownership prompt so it treats the repo as yours]]
+- [[AI Agents & Dev Tools/2026-11-10 dvsch Turn the Fable 5.2 prompt guide into a skill]]
 - [[AI Agents & Dev Tools/2026-11-09 borjafat Fable 5.2 as Head of SEO with a black hole SEO playbook]]
 - [[AI Agents & Dev Tools/2026-11-09 kunchenguid Fable 5.2 prompt to find implicit state machines]]
 - [[AI Agents & Dev Tools/2026-11-08 herdrdev herdr-core lets your main agent orchestrate all other agents]]

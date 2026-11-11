@@ -2,6 +2,8 @@
 
 High-value posts worth revisiting for lasting insights.
 
+- [[AI Agents & Dev Tools/2026-11-10 matthuang Swarm riders and Swarm-native companies]]
+- [[Health & Mind/2026-11-10 chrislakin Why do I avoid working on the most important thing]]
 - [[AI Agents & Dev Tools/2026-10-31 poteto How I create high quality Grok bots and manage my team]]
 - [[AI Agents & Dev Tools/2026-11-07 brian_armstrong runs one always-on lead agent per focus area]]
 - [[Health & Mind/2026-11-03 bryan_johnson Three levels of sauna]]
