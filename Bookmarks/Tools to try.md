@@ -2,6 +2,7 @@
 
 Software, techniques, and practical tools to explore.
 
+- [[AI Agents & Dev Tools/2026-11-10 nateberkopec Isolated VM swarm prompt to find exploits in your app]]
 - [[Business & Startups/2026-11-10 acecreamu High-DR profile pages as an SEO trick]]
 - [[AI Agents & Dev Tools/2026-11-10 bebuu_ai Fable 5.2 ownership prompt so it treats the repo as yours]]
 - [[AI Agents & Dev Tools/2026-11-10 dvsch Turn the Fable 5.2 prompt guide into a skill]]
