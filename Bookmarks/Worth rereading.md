@@ -2,6 +2,7 @@
 
 High-value posts worth revisiting for lasting insights.
 
+- [[AI Agents & Dev Tools/2026-11-11 varunsrin Thoughts on writing software in November 2026]]
 - [[AI Agents & Dev Tools/2026-11-10 jacobeverly Coordinating swarms at 600M tokens a day]]
 - [[AI Agents & Dev Tools/2026-11-10 matthuang Swarm riders and Swarm-native companies]]
 - [[Health & Mind/2026-11-10 chrislakin Why do I avoid working on the most important thing]]
