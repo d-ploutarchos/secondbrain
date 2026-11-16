@@ -2,6 +2,8 @@
 
 High-value posts worth revisiting for lasting insights.
 
+- [[Crypto & Tokenization/2026-11-14 ercwl Crypto is a volatile moonshot again not a safe haven]]
+- [[Crypto & Tokenization/2026-11-14 tulipking What is the future of our industry]]
 - [[AI Agents & Dev Tools/2026-11-11 varunsrin Thoughts on writing software in November 2026]]
 - [[AI Agents & Dev Tools/2026-11-10 jacobeverly Coordinating swarms at 600M tokens a day]]
 - [[AI Agents & Dev Tools/2026-11-10 matthuang Swarm riders and Swarm-native companies]]
