@@ -3,7 +3,6 @@
 Software, techniques, and practical tools to explore.
 
 - [[AI Agents & Dev Tools/2026-11-19 wojkuli Vercel Board plus Opus 5.5, boat, and e2e]]
-    10|
 - [[AI Agents & Dev Tools/2026-11-13 kunchenguid Agentic Engineering in Grok Bot]]
 - [[AI Agents & Dev Tools/2026-11-13 gakonst DeepSeek Abliterated via Boundless paying with stablecoins]]
 - [[AI Agents & Dev Tools/2026-11-10 nateberkopec Isolated VM swarm prompt to find exploits in your app]]
