@@ -2,6 +2,11 @@
 
 Software, techniques, and practical tools to explore.
 
+- [[AI Agents & Dev Tools/2026-11-22 joelhooks 24-7 security scans with deepsec and agent council]]
+- [[AI Agents & Dev Tools/2026-11-20 mattpocockuk Prompt to audit and delete code comments]]
+- [[AI Agents & Dev Tools/2026-11-20 pontusab Full CI pipeline now sub 1 min with bun]]
+- [[AI Agents & Dev Tools/2026-11-21 gakonst Antigravity Google support in Nanocode]]
+- [[Other/2026-11-21 m1guelpf Exo a native open-source Superhuman-like email client for macOS]]
 - [[AI Agents & Dev Tools/2026-11-19 wojkuli Vercel Board plus Opus 5.5, boat, and e2e]]
 - [[AI Agents & Dev Tools/2026-11-13 kunchenguid Agentic Engineering in Grok Bot]]
 - [[AI Agents & Dev Tools/2026-11-13 gakonst DeepSeek Abliterated via Boundless paying with stablecoins]]

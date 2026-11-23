@@ -2,6 +2,10 @@
 
 High-value posts worth revisiting for lasting insights.
 
+- [[AI Agents & Dev Tools/2026-11-20 gakonst Effective Swarm Riding for Engineers]]
+- [[AI Agents & Dev Tools/2026-11-21 kunchenguid Batching branches into one PR to cut CI load]]
+- [[AI Agents & Dev Tools/2026-11-20 brian_armstrong Visualization of his current AI workflow]]
+- [[Health & Mind/2026-11-20 ftlsid Representations of other minds live in your own]]
 - [[Crypto & Tokenization/2026-11-14 ercwl Crypto is a volatile moonshot again not a safe haven]]
 - [[Crypto & Tokenization/2026-11-14 tulipking What is the future of our industry]]
 - [[AI Agents & Dev Tools/2026-11-11 varunsrin Thoughts on writing software in November 2026]]
