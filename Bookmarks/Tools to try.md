@@ -2,6 +2,7 @@
 
 Software, techniques, and practical tools to explore.
 
+- [[AI Agents & Dev Tools/2026-11-24 gabriel1 Bottoms-up plain-English learning prompt]]
 - [[AI Agents & Dev Tools/2026-11-22 joelhooks 24-7 security scans with deepsec and agent council]]
 - [[AI Agents & Dev Tools/2026-11-20 mattpocockuk Prompt to audit and delete code comments]]
 - [[AI Agents & Dev Tools/2026-11-20 pontusab Full CI pipeline now sub 1 min with bun]]
