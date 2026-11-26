@@ -2,6 +2,7 @@
 
 High-value posts worth revisiting for lasting insights.
 
+- [[Business & Startups/2026-11-25 gametheorizing Nebius NBIS as the best AI capex risk-reward setup]]
 - [[AI Agents & Dev Tools/2026-11-20 gakonst Effective Swarm Riding for Engineers]]
 - [[AI Agents & Dev Tools/2026-11-21 kunchenguid Batching branches into one PR to cut CI load]]
 - [[AI Agents & Dev Tools/2026-11-20 brian_armstrong Visualization of his current AI workflow]]
