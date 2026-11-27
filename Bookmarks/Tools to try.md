@@ -2,6 +2,8 @@
 
 Software, techniques, and practical tools to explore.
 
+- [[AI Agents & Dev Tools/2026-11-26 mvanhorn Tested 16 agent browser and computer-use tools]]
+- [[AI Agents & Dev Tools/2026-11-26 superalesha Colab G4 launcher for GLM-5.3-Flash Uncensored]]
 - [[AI Agents & Dev Tools/2026-11-24 gabriel1 Bottoms-up plain-English learning prompt]]
 - [[AI Agents & Dev Tools/2026-11-22 joelhooks 24-7 security scans with deepsec and agent council]]
 - [[AI Agents & Dev Tools/2026-11-20 mattpocockuk Prompt to audit and delete code comments]]
